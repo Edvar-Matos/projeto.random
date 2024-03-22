@@ -18,3 +18,6 @@
    <br>
    <img src="https://github.com/Edvar-Matos/projeto.random/blob/master/img/img-sorteio2.png?raw=true"/>
    <br>
+   <h3>Essa imagem mostra o resultado da responsividade.</h3>
+   <br>
+   <img src="https://github.com/Edvar-Matos/projeto.random/blob/master/img/mobile.png?raw=true"/>
