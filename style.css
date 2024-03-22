@@ -67,3 +67,47 @@ button:hover {
 button:active {
    opacity: 0.8;
 }
+
+@media screen and (max-width: 700px){
+
+   img {
+      width: 100%;
+      height: auto;
+      padding: 40px;
+   }
+
+   h2 {
+      margin-top: 20px;
+   }
+
+   .input-min {
+       height: auto;
+       border: none;
+       display: flex;
+       align-items: center;
+       padding: 10px;
+       margin-left: 20px;
+       margin-right: 20px;
+       margin-bottom: 20px;
+   }
+
+   .input-max {
+      height: auto;
+       border: none;
+       display: flex;
+       align-items: center;
+       padding: 10px;
+       margin-left: 20px;
+       margin-right: 20px;
+   }
+
+   button {
+      height: auto;
+      padding: 10px;
+      margin-top: 30px;
+      margin-bottom: 40px;
+   }
+   
+}
+
+
